@@ -1,4 +1,3 @@
-<img align="center" alt="cover" with="100%" scr="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <h1 align="center">Hi 👋, I'm Chathuranga Dilshan</h1>
 <h3 align="center">A Student Of IJSE(Institute of Software Engineering)BSc(Hons)in computer Science-GDSE59</h3>
 <img align="left" alt="codeing" width="50%" height="300px" src=https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif>
