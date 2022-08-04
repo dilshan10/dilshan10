@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chathuranga Dilshan</h1>
 <h3 align="center">A Student Of IJSE(Institute of Software Engineering)BSc(Hons)in computer Science-GDSE59</h3>
-<img align="center" alt="codeing" width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuRdE21Ae68ExFO3LX9xNk_5l-fsW4pMQKHQ&usqp=CAU">
+<center><img alt="codeing" width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuRdE21Ae68ExFO3LX9xNk_5l-fsW4pMQKHQ&usqp=CAU"></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan10&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan10" /> </p>
 
