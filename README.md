@@ -7,10 +7,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilshan10&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan10" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshan10" alt="dilshan10" /></a> </p>
-<p>
-- 💬 Ask me about **Java,mySQL,OOP,Html**</p>
+<p align="center">
+ - 💬 Ask me about <b>**Java,mySQL,OOP,Html**</b></p>
 
-<p>- 📫 How to reach me **superdilshan999@gmail.com**</p>
+<p align="center">- 📫 How to reach me **superdilshan999@gmail.com**</p>
  
 
 <h3 align="left">Connect with me:</h3>
