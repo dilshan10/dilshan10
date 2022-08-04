@@ -4,7 +4,7 @@
 <img align="left" alt="codeing" width="50%" height="300px" src=https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif>
 <img align="right" alt="codeing" width="50%" height="300px"  src=https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan10&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan10" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dilshan10&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshan10" alt="dilshan10" /></a> </p>
 
