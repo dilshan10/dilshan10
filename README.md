@@ -6,14 +6,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilshan10&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshan10" alt="dilshan10" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshan10" alt="dilshan10" /></a> </p>
 
 - 💬 Ask me about **Java,mySQL,OOP,Html**
 
 - 📫 How to reach me **superdilshan999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/chathuranga-dilshan-9a709a244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathuranga dilshan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dilshan.chathuranga.75436/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chathuranga dilshan" height="30" width="40" /></a>
 <a href="https://instagram.com/chathu.ranga.dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chathu.ranga.dilshan" height="30" width="40" /></a>
