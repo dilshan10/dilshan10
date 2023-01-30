@@ -9,9 +9,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshan10" alt="dilshan10" /></a> </p>
 <p align="center">
- - 💬 Ask me about <b>**Java,mySQL,OOP,Html,javaScript**</b></p>
+ <i>- 💬 Ask me about</i> <b>**Java,mySQL,OOP,Html,javaScript**</b></p>
 
-<p align="center"><b>- 📫 How to reach me **superdilshan999@gmail.com**<b></p>
+<p align="center"><i>- 📫 How to reach me<i> <b>**superdilshan999@gmail.com**<b></p>
  
 
 <h3 align="center">Connect with me:</h3>
