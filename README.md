@@ -11,7 +11,7 @@
 <p align="center">
  - 💬 Ask me about <b>**Java,mySQL,OOP,Html,javaScript**</b></p>
 
-<p align="center">- 📫 How to reach me **superdilshan999@gmail.com**</p>
+<p align="center"><b>- 📫 How to reach me **superdilshan999@gmail.com**<b></p>
  
 
 <h3 align="center">Connect with me:</h3>
