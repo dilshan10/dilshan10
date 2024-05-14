@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chathuranga Dilshan</h1>
 <h3 align="center">A traing associate software Engineer</h3>
-<section align="center" style ="margin-bottom:3rem">
+<section align="center" style ="margin-bottom:3rem;">
 <img align="left" alt="codeing" width="50%" height="300px" src=https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif>
 <img align="right" alt="codeing" width="50%" height="300px"  src=https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif>
 </section>
